@@ -83,4 +83,3 @@ Repository for useful articles about everything from the .NET world
 
 * [Mark Erikson - The Tao of Redux, Part 1 - Implementation and Intent](https://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/) - describes Redux internals
 * [Mark Erikson - The Tao of Redux, Part 2 - Practice and Philosophy](https://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-2/) - discuses practical usage of Redux
-+

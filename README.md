@@ -76,3 +76,10 @@ Repository for useful articles about everything from the .NET world
 ### Kubernetes
 
 * [An Introduction to Kubernetes](https://andrewlock.net/deploying-asp-net-core-applications-to-kubernetes-part-1-an-introduction-to-kubernetes/) - intro to Kubernetes from Andrew Lock
+
+## React
+
+### Redux
+
+* [Mark Erikson - The Tao of Redux, Part 1 - Implementation and Intent](https://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/) - describes Redux internals
+* [Mark Erikson - The Tao of Redux, Part 2 - Practice and Philosophy](https://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-2/) - discuses practical usage of Redux

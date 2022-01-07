@@ -1,0 +1,22 @@
+{
+  "name": "net.mrnustik.knowledge-base",
+  "version": "1.0.0",
+  "description": "KnowledgeBase is a repository used to combine blog posts and information that might prove useful inthe future.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "markdownlint --ignore node_modules ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrnustik/KnowledgeBase.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrnustik/KnowledgeBase/issues"
+  },
+  "homepage": "https://github.com/mrnustik/KnowledgeBase#readme",
+  "devDependencies": {
+    "markdownlint-cli": "^0.30.0"
+  }
+}

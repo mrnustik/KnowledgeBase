@@ -13,6 +13,7 @@ Repository for useful articles about everything from the .NET world
 * [Monads in C# explained](https://mikhail.io/2018/07/monads-explained-in-csharp-again/) by Mikhail Shilkov
 
 ### .NET 6
+
 * [Minimal APIs](https://gist.github.com/davidfowl/ff1addd02d239d2d26f4648a06158727) by David Fowler
 * [.NET 6 migration guide](https://gist.github.com/davidfowl/0e0372c3c1d895c3ce195ba983b1e03d) by David Fowler
 * [Migration to ASP.NET Core in .NET 6](https://gist.github.com/davidfowl/0e0372c3c1d895c3ce195ba983b1e03d) by David Fowler
@@ -57,6 +58,7 @@ Repository for useful articles about everything from the .NET world
 ### Libraries
 
 #### DDD
+
 * [ValueOf](https://github.com/mcintyre321/ValueOf) - value object abstraction library
 * [StronglyTypedIds](https://github.com/andrewlock/StronglyTypedId) - strongly typed id generator
 

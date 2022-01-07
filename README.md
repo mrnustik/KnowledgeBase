@@ -1,1 +1,3 @@
-KnowledgeBase is a repository used to combine blog posts and information that might prove useful inthe future.
+# Knowledge base
+
+KnowledgeBase is a repository used for combining blog posts and information that might prove useful inthe future.

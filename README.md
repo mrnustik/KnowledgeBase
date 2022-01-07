@@ -68,7 +68,7 @@ Repository for useful articles about everything from the .NET world
 
 ## DevOps
 
-### Docker 
+### Docker
 
 * [Docker for beginners](https://docker-curriculum.com) - basic docker tutorial by Prakhar Srivasta basic docker tutorial by Prakhar Srivastavv
 * [Running Posgtres in Docker](https://hackernoon.com/dont-install-postgres-docker-pull-postgres-bee20e200198) - guide on running Postgres database in Docker by Syed
@@ -83,3 +83,4 @@ Repository for useful articles about everything from the .NET world
 
 * [Mark Erikson - The Tao of Redux, Part 1 - Implementation and Intent](https://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/) - describes Redux internals
 * [Mark Erikson - The Tao of Redux, Part 2 - Practice and Philosophy](https://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-2/) - discuses practical usage of Redux
++

@@ -1,3 +1,65 @@
 # Knowledge base
 
 KnowledgeBase is a repository used for combining blog posts and information that might prove useful inthe future.
+
+## .NET Knowledge Base
+
+Repository for useful articles about everything from the .NET world
+
+* [Deterministic GUID generation](https://github.com/LogosBible/Logos.Utility/blob/master/src/Logos.Utility/GuidUtility.cs) by Bradley Grainger
+
+### Functional Programming
+
+* [Monads in C# explained](https://mikhail.io/2018/07/monads-explained-in-csharp-again/) by Mikhail Shilkov
+
+### .NET 6
+* [Minimal APIs](https://gist.github.com/davidfowl/ff1addd02d239d2d26f4648a06158727) by David Fowler
+* [.NET 6 migration guide](https://gist.github.com/davidfowl/0e0372c3c1d895c3ce195ba983b1e03d) by David Fowler
+* [Migration to ASP.NET Core in .NET 6](https://gist.github.com/davidfowl/0e0372c3c1d895c3ce195ba983b1e03d) by David Fowler
+* [Exploring .NET 6](https://andrewlock.net/series/exploring-dotnet-6/) by Andrew lock
+* [Source generators list](https://github.com/amis92/csharp-source-generators) by amis92
+* [.NET 6 features](https://github.com/okyrylchuk/dotnet6_features) okyrylchuk
+
+## Architecture
+
+### CQRS
+
+* [Using Mediator](https://altkomsoftware.pl/en/blog/microservices-net-core-cqrs-mediatr/) - description of architecting a CQRS based system using Mediator by Ewelina Polska-Brzostowska
+
+### DDD
+
+* [Domain events handling](http://www.kamilgrzybek.com/design/handling-domain-events-missing-part/) by Kamil Grzybek
+
+### Microservices
+
+* [CQRS and Event Sourcing Intro For Developers](https://altkomsoftware.pl/en/blog/cqrs-event-sourcing/) - by Wojciech Suwała and Robert Witkowski
+
+#### Service Discovery
+
+* [Service Discovery with eureka](https://altkomsoftware.pl/en/blog/service-discovery-eureka/) - description of setting up .NET Core app with service discoveries, part of series about Microservices Architecture by Wojciech Suwała and Robert Witkowski
+* [Steeltoe](https://steeltoe.io) - .NET library for Service Discovery using Eureka
+
+#### API Gateways
+
+* [API gateways setup using Ocelot](https://altkomsoftware.pl/en/blog/building-api-gateways-with-ocelot/) - description of API gateway setup using Ocelot library by Wojciech Suwała
+  
+## Persistence
+
+### Event Sourcing
+
+* [Event Sourcing: The Good, The Bad and The Ugly](https://www.continuousimprover.com/2017/11/event-sourcing-good-bad-and-ugly.html) - overview of articles about event sourcing by Dennis Doomen
+
+#### [Marten](http://jasperfx.github.io/marten/)
+
+* [Saving Domain Aggregates in Marten](https://altkomsoftware.pl/en/blog/building-microservices-domain-aggregates/) - basics of Marten, part of series about Microservices Architecture by Wojciech Suwała
+* [Compiled Queries](http://jasperfx.github.io/marten/documentation/documents/querying/compiled_queries/) - documentation on usage of compiled queries
+
+### Libraries
+
+#### DDD
+* [ValueOf](https://github.com/mcintyre321/ValueOf) - value object abstraction library
+* [StronglyTypedIds](https://github.com/andrewlock/StronglyTypedId) - strongly typed id generator
+
+### Testing
+
+* [How to get ASP.NET Core logs in the output of xUnit tests](https://www.meziantou.net/how-to-get-asp-net-core-logs-in-the-output-of-xunit-tests.htm) by Gérald Barré

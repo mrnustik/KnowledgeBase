@@ -65,3 +65,14 @@ Repository for useful articles about everything from the .NET world
 ### Testing
 
 * [How to get ASP.NET Core logs in the output of xUnit tests](https://www.meziantou.net/how-to-get-asp-net-core-logs-in-the-output-of-xunit-tests.htm) by Gérald Barré
+
+## DevOps
+
+### Docker 
+
+* [Docker for beginners](https://docker-curriculum.com) - basic docker tutorial by Prakhar Srivasta basic docker tutorial by Prakhar Srivastavv
+* [Running Posgtres in Docker](https://hackernoon.com/dont-install-postgres-docker-pull-postgres-bee20e200198) - guide on running Postgres database in Docker by Syed
+
+### Kubernetes
+
+* [An Introduction to Kubernetes](https://andrewlock.net/deploying-asp-net-core-applications-to-kubernetes-part-1-an-introduction-to-kubernetes/) - intro to Kubernetes from Andrew Lock

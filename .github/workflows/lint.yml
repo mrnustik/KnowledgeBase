@@ -1,0 +1,18 @@
+name: Lint
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: xt0rted/markdownlint-problem-matcher@v1
+      - name: npm install 
+        run: npm i
+      - name: Run lint
+        run: npm run lint

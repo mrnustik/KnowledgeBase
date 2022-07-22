@@ -21,6 +21,10 @@ Repository for useful articles about everything from the .NET world
 * [Source generators list](https://github.com/amis92/csharp-source-generators) by amis92
 * [.NET 6 features](https://github.com/okyrylchuk/dotnet6_features) okyrylchuk
 
+### .NET 7
+
+* [Rate Limiting API](https://devblogs.microsoft.com/dotnet/announcing-rate-limiting-for-dotnet/) by Brennan Conroy
+
 ## Architecture
 
 ### CQRS
@@ -36,6 +40,7 @@ Repository for useful articles about everything from the .NET world
 #### Messaging
 
 * [Messaging back pressure relieving](https://clearmeasure.com/backpressure-in-message-based-systems) by Corey Keller
+* [Saga and process manager patterns](https://event-driven.io/pl/saga_process_manager_distributed_transactions/) by Oskar Dudycz
 
 ### Microservices
 

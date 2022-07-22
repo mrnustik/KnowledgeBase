@@ -39,7 +39,7 @@ Repository for useful articles about everything from the .NET world
 
 ### Microservices
 
-* [CQRS and Event Sourcing Intro For Developers](https://altkomsoftware.pl/en/blog/cqrs-event-sourcing/) - by Wojciech Suwała and Robert Witkowski
+* [CQRS and Event Sourcing Intro For Developers](https://altkomsoftware.pl/en/blog/cqrs-event-sourcing/) by Wojciech Suwała and Robert Witkowski
 
 #### Service Discovery
 

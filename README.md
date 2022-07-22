@@ -31,6 +31,12 @@ Repository for useful articles about everything from the .NET world
 
 * [Domain events handling](http://www.kamilgrzybek.com/design/handling-domain-events-missing-part/) by Kamil Grzybek
 
+### Distributed systems
+
+#### Messaging 
+
+* [Messaging back pressure relieving](https://clearmeasure.com/backpressure-in-message-based-systems) by Corey Keller
+
 ### Microservices
 
 * [CQRS and Event Sourcing Intro For Developers](https://altkomsoftware.pl/en/blog/cqrs-event-sourcing/) - by Wojciech Suwała and Robert Witkowski

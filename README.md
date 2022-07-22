@@ -33,7 +33,7 @@ Repository for useful articles about everything from the .NET world
 
 ### Distributed systems
 
-#### Messaging 
+#### Messaging
 
 * [Messaging back pressure relieving](https://clearmeasure.com/backpressure-in-message-based-systems) by Corey Keller
 

@@ -27,6 +27,10 @@ Repository for useful articles about everything from the .NET world
 
 ## Architecture
 
+### GraphQL
+
+* [Exploring GraphQL’s performance tradeoffs](https://blog.allegro.tech/2022/06/graphql-perf-tradeoffs.html) by Alicja Halamska and Dawid Kubicki
+
 ### CQRS
 
 * [Using Mediator](https://altkomsoftware.pl/en/blog/microservices-net-core-cqrs-mediatr/) - description of architecting a CQRS based system using Mediator by Ewelina Polska-Brzostowska

@@ -64,6 +64,7 @@ Repository for useful articles about everything from the .NET world
 ### Event Sourcing
 
 * [Event Sourcing: The Good, The Bad and The Ugly](https://www.continuousimprover.com/2017/11/event-sourcing-good-bad-and-ugly.html) - overview of articles about event sourcing by Dennis Doomen
+* [Event Sourcing vs Command Sourcing](https://thinkbeforecoding.com/post/2013/07/28/Event-Sourcing-vs-Command-Sourcing) critique of Martin Fowlers Event Sourcing description by jeremie chassaing
 
 #### [Marten](http://jasperfx.github.io/marten/)
 

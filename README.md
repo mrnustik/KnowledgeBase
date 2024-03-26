@@ -27,6 +27,10 @@ Repository for useful articles about everything from the .NET world
 
 ## Architecture
 
+### Paterns
+
+* [BFF: Backend for frontend in Decathlon](https://medium.com/decathlondigital/bff-a-design-pattern-helping-teams-gain-ownership-677846e26b20) by Raphaël Tahar
+
 ### GraphQL
 
 * [Exploring GraphQL’s performance tradeoffs](https://blog.allegro.tech/2022/06/graphql-perf-tradeoffs.html) by Alicja Halamska and Dawid Kubicki

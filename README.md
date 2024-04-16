@@ -4,8 +4,6 @@ KnowledgeBase is a repository used for combining blog posts and information that
 
 ## .NET Knowledge Base
 
-Repository for useful articles about everything from the .NET world
-
 * [Deterministic GUID generation](https://github.com/LogosBible/Logos.Utility/blob/master/src/Logos.Utility/GuidUtility.cs) by Bradley Grainger
 
 ### Functional Programming
@@ -24,6 +22,10 @@ Repository for useful articles about everything from the .NET world
 ### .NET 7
 
 * [Rate Limiting API](https://devblogs.microsoft.com/dotnet/announcing-rate-limiting-for-dotnet/) by Brennan Conroy
+
+### Open Telemetry
+
+* [Observing .NET microservices with OpenTelemetry - logs, traces and metrics](https://blog.codingmilitia.com/2023/09/05/observing-dotnet-microservices-with-opentelemetry-logs-traces-metrics/) by João Antunes
 
 ## Architecture
 

@@ -50,7 +50,7 @@ KnowledgeBase is a repository used for combining blog posts and information that
 #### Messaging
 
 * [Messaging back pressure relieving](https://clearmeasure.com/backpressure-in-message-based-systems) by Corey Keller
-* [Saga and process manager patterns](https://event-driven.io/pl/saga_process_manager_distributed_transactions/) by Oskar Dudycz 
+* [Saga and process manager patterns](https://event-driven.io/pl/saga_process_manager_distributed_transactions/) by Oskar Dudycz
 * [Handling Complexity: Using Sagas to Provide Transactional Support for Distributed Systems](https://medium.com/ssense-tech/handling-complexity-using-sagas-to-provide-transactional-support-for-distributed-systems-61ae909e0829) by Mario Bittencout
 
 ### Microservices

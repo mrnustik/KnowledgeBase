@@ -53,10 +53,6 @@ KnowledgeBase is a repository used for combining blog posts and information that
 * [Saga and process manager patterns](https://event-driven.io/pl/saga_process_manager_distributed_transactions/) by Oskar Dudycz
 * [Handling Complexity: Using Sagas to Provide Transactional Support for Distributed Systems](https://medium.com/ssense-tech/handling-complexity-using-sagas-to-provide-transactional-support-for-distributed-systems-61ae909e0829) by Mario Bittencout
 
-### Microservices
-
-* [CQRS and Event Sourcing Intro For Developers](https://altkomsoftware.pl/en/blog/cqrs-event-sourcing/) by Wojciech Suwała and Robert Witkowski
-
 #### Service Discovery
 
 * [Service Discovery with eureka](https://altkomsoftware.pl/en/blog/service-discovery-eureka/) - description of setting up .NET Core app with service discoveries, part of series about Microservices Architecture by Wojciech Suwała and Robert Witkowski
@@ -72,6 +68,8 @@ KnowledgeBase is a repository used for combining blog posts and information that
 
 * [Event Sourcing: The Good, The Bad and The Ugly](https://www.continuousimprover.com/2017/11/event-sourcing-good-bad-and-ugly.html) - overview of articles about event sourcing by Dennis Doomen
 * [Event Sourcing vs Command Sourcing](https://thinkbeforecoding.com/post/2013/07/28/Event-Sourcing-vs-Command-Sourcing) critique of Martin Fowlers Event Sourcing description by jeremie chassaing
+* [CQRS and Event Sourcing Intro For Developers](https://altkomsoftware.pl/en/blog/cqrs-event-sourcing/) by Wojciech Suwała and Robert Witkowski
+* [Event Sourcing Series (from basics to versioning and GDPR management)](https://medium.com/ssense-tech/event-sourcing-part-i-understanding-what-it-is-core-components-and-common-misconceptions-5dec65f6d61) by Mario Bittencourt
 
 #### [Marten](http://jasperfx.github.io/marten/)
 
